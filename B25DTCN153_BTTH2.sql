@@ -1,5 +1,5 @@
-CREATE DATABASE btth1_cntt6;
-USE btth1_cntt6;
+CREATE DATABASE btth2_cntt6;
+USE btth2_cntt6;
 
 -- Ý1.
 SELECT c.course_name, t.full_name AS teacher_name
